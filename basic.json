@@ -1,0 +1,38 @@
+//data for the flashcards
+
+//Basic Card questions - all about Tea!
+
+[
+{
+	"front": "Name the four different types of tea",
+	"back": "Black, Green, White and Oolong"
+},
+{
+	"front": "Tea bags were created in the United States in 1908 by this man",
+	"back": "Thomas Sullivan"
+},
+{
+	"front": "What is the name of the plant that all teas come from",
+	"back": "Camellia Sinensis"
+}
+// {
+// 	"front": "According to legend, tea was discovered by this Chinese emperor",
+// 	"back": "Shen Nung"
+// },
+// {
+// 	"front": "What is the name of the herbal tea from South Africa",
+// 	"back": "Rooibos"
+// },
+// {
+// 	"front": "Herbal teas are not really teas but are classified as this",
+// 	"back": "Infusions"
+// },
+// {
+// 	"front": "This is a powdered green tea used in Japanese tea ceremonies",
+// 	"back": "Matcha"
+// },
+// {
+// 	"front": "Earl Grey tea is flavored with oil from this fruit",
+// 	"back": "Bergamot, a citrus fruit"
+// }
+]

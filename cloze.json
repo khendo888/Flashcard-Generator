@@ -1,0 +1,67 @@
+//data for Cloze flash cards
+[
+{
+	"partial": "The four different types of tea are Black, Green, White and Oolong",
+	"cloze": "Black, Green, White and Oolong"
+},
+{
+	"partial": "Tea bags were created in the United States in 1908 by Thomas Sullivan",
+	"cloze": "Thomas Sullivan"
+},
+{
+	"partial": "Camellia Sinensis is the name of the plant that all teas come from",
+	"cloze": "Camellia Sinensis"
+}
+// {
+// 	"partial": "According to legend, tea was discovered by this Chinese emperor",
+// 	"cloze": "Shen Nung"
+// },
+// {
+// 	"partial": "What is the name of the herbal tea from South Africa",
+// 	"cloze": "Rooibos"
+// },
+// {
+// 	"partial": "Herbal teas are not really teas but are classified as this",
+// 	"cloze": "Infusions"
+// },
+// {
+// 	"partial": "This is a powdered green tea used in Japanese tea ceremonies",
+// 	"cloze": "Matcha"
+// },
+// {
+// 	"partial": "Earl Grey tea is flavored with oil from this fruit",
+// 	"cloze": "Bergamot, a citrus fruit"
+// },
+// {
+// 	"partial": "Name the four different types of tea",
+// 	"cloze": "Black, Green, White and Oolong"
+// },
+// {
+// 	"partial": "Tea bags were created in the United States in 1908 by this man",
+// 	"cloze": "Thomas Sullivan"
+// },
+// {
+// 	"partial": "What is the name of the plant that all teas come from",
+// 	"cloze": "Camellia Sinensis"
+// },
+// {
+// 	"partial": "According to legend, tea was discovered by this Chinese emperor",
+// 	"cloze": "Shen Nung"
+// },
+// {
+// 	"partial": "What is the name of the herbal tea from South Africa",
+// 	"cloze": "Rooibos"
+// },
+// {
+// 	"partial": "Herbal teas are not really teas but are classified as this",
+// 	"cloze": "Infusions"
+// },
+// {
+// 	"partial": "This is a powdered green tea used in Japanese tea ceremonies",
+// 	"cloze": "Matcha"
+// },
+// {
+// 	"partial": "Earl Grey tea is flavored with oil from this fruit",
+// 	"cloze": "Bergamot, a citrus fruit"
+// }
+]
